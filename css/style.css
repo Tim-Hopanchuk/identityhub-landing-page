@@ -431,6 +431,7 @@ a {
 }
 
 .hero-illustration {
+  width: 100%;
   max-width: 31rem;
   margin: 0 auto;
 }
